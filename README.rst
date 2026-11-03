@@ -2,7 +2,7 @@
 
 https://blog.sofiane.cc
 
----
+
 
 .. raw:: html
 
